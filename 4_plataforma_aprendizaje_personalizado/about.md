@@ -1,7 +1,7 @@
 # Plataforma de Aprendizaje Personalizada
 
 - Funcionalidades:
-    - > Perfil de usuario, recomendaciones personalizadas, seguimiento de progreso, evaluaciones, foros y contenido interactivo.
+    - > Una plataforma educativa que adapta el aprendizaje a las necesidades individuales de cada usuario. Ofrece perfiles personalizados donde los usuarios pueden registrar sus intereses y metas educativas. Utiliza inteligencia artificial para recomendar cursos, videos y artículos basados en el progreso y las preferencias del usuario. Incluye evaluaciones interactivas, foros para discusión y contenido interactivo como videos y simulaciones.
 - Tecnologías sugeridas:
     - > Frontend: HTML, CSS, JavaScript. React.js o incluso una implementación más simple inicialmente.
     - > Backend: PHP para manejar la lógica de la aplicación, MySQL para almacenar datos de cursos y usuarios.
