@@ -1,0 +1,9 @@
+.container-fluid {
+    height: 100vh;
+}
+
+label {
+    text-align: right;
+    display: block;
+    margin-right: 1rem;
+}
